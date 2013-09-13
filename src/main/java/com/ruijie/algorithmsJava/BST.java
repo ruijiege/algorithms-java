@@ -1,6 +1,7 @@
 package com.ruijie.algorithmsJava;
 import java.util.NoSuchElementException;
 import com.ruijie.algorithmsJava.Queue;
+import com.ruijie.algorithmsJava.Stack;
 /**
  * Binary Search Tree.
  */
